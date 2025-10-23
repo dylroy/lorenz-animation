@@ -1,0 +1,5 @@
+#ignore poetry.lock
+poetry.lock
+
+#ignore vscode specific folders
+.vscode/
